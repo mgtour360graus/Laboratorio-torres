@@ -1,0 +1,84 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_1F322056_28FF_4B17_41C2_0BE25B0DB7A1.source = https://labtorres.com.br/
+LinkBehaviour_0B470C58_284E_FB1B_41A5_8E103FB83210.source = https://labtorres.com.br/
+LinkBehaviour_4FA2080C_7E8A_C17C_41D2_DCD9F51FBA3B.source = https://maps.app.goo.gl/gS9XJk8MNYWM4LuM9
+LinkBehaviour_A786F281_E756_0367_41A8_A41E3C5E4058.source = https://maps.app.goo.gl/gS9XJk8MNYWM4LuM9
+LinkBehaviour_17680BE8_28C9_3D3B_41A4_67E048BB6075.source = https://maps.app.goo.gl/gS9XJk8MNYWM4LuM9
+LinkBehaviour_1D7FDC10_28F7_7AEB_4170_A1338993B9D8.source = https://maps.app.goo.gl/gS9XJk8MNYWM4LuM9
+LinkBehaviour_015E620A_28CA_CEFF_41B9_36F8C787DB7D.source = https://search.google.com/local/writereview?placeid=ChIJ-WDGCA6cEZURANcBeIKr50c
+LinkBehaviour_B852FF7B_E2EA_36DE_41DD_FF542309EFF2.source = https://search.google.com/local/writereview?placeid=ChIJ-WDGCA6cEZURANcBeIKr50c
+LinkBehaviour_81EE0FE3_E32A_D5EE_41E3_6B546646256F.source = https://search.google.com/local/writereview?placeid=ChIJ-WDGCA6cEZURANcBeIKr50c
+LinkBehaviour_1F324054_28FF_4B6B_4171_C55580171507.source = https://search.google.com/local/writereview?placeid=ChIJ-WDGCA6cEZURANcBeIKr50c
+LinkBehaviour_17695BE8_28C9_3D3B_4184_BE00A2034277.source = https://search.google.com/local/writereview?placeid=ChIJ-WDGCA6cEZURANcBeIKr50c
+LinkBehaviour_6E599584_7E95_436C_41B5_9343FA1787F3.source = https://search.google.com/local/writereview?placeid=ChIJ-WDGCA6cEZURANcBeIKr50c
+LinkBehaviour_1F3CC055_28FF_4B15_41BF_0B063993FA3D.source = https://wa.me/5553991659378
+LinkBehaviour_B669563A_E2FA_D65E_41DE_7CF348C69C18.source = https://wa.me/5553991659378
+LinkBehaviour_A4FE09D8_E756_00E5_41E0_3FCA4E9A253F.source = https://wa.me/5553991659378
+LinkBehaviour_176AABE8_28C9_3D3B_41C0_5A46D261C9A6.source = https://wa.me/5553991659378
+LinkBehaviour_A63B9998_E756_0165_41D7_CA2308E1E339.source = https://www.facebook.com/LaboratorioTorresRS
+LinkBehaviour_50171E6C_7E8A_C1BC_41B7_3899317C8199.source = https://www.facebook.com/LaboratorioTorresRS
+LinkBehaviour_176A2BE6_28C9_3D37_41C2_1A822B04F2C4.source = https://www.facebook.com/LaboratorioTorresRS
+LinkBehaviour_1D7F7C0F_28F7_7AF5_41C1_EE25EF08D25D.source = https://www.facebook.com/LaboratorioTorresRS
+LinkBehaviour_A7E92867_E756_0FAB_41E2_B085782E4177.source = https://www.instagram.com/laboratorio.torres/
+LinkBehaviour_1D7F5C0F_28F7_7AF5_419E_7EB91D028E19.source = https://www.instagram.com/laboratorio.torres/
+LinkBehaviour_17698BE6_28C9_3D37_4181_A94291985722.source = https://www.instagram.com/laboratorio.torres/
+LinkBehaviour_51110F74_7E8B_5FAC_41C1_480465C32995.source = https://www.instagram.com/laboratorio.torres/
+
+## Media
+
+### Audio
+audiores_206BCCEC_2DF9_CA7C_41B8_1C10BE25B709.mp3Url = media/audio_20D20216_2DF6_39AC_41C0_4ADBDAAE35E2_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_2CD0EAE0_2157_7A78_41B7_CCE06BABE716.label = IMG_20250826_112104_00_merged
+panorama_2A7C7479_2157_6E4B_41BE_4CA33AECDF21.label = IMG_20250826_112238_00_merged
+panorama_2A782A98_2157_5AC9_41BD_D5274A1E8C89.label = IMG_20250826_112309_00_merged
+panorama_2A7FA0A6_2150_A6F9_41B5_67480B25DBDE.label = IMG_20250826_112348_00_merged
+panorama_2A7FD6C6_2150_AAB8_41B2_6E7DD3772E82.label = IMG_20250826_112421_00_merged
+panorama_2A7FBD15_2150_BFDB_41BA_53F4D3800E7E.label = IMG_20250826_112755_00_merged
+
+## Skin
+
+### Button
+Button_6EA0E613_7E9D_C164_41C5_E7DE33562BB2.label = COMO CHEGAR
+Button_6EA0E613_7E9D_C164_41C5_E7DE33562BB2_mobile.label = COMO CHEGAR
+Button_6C1AE403_7C03_7954_41C9_486B58E61A2F_mobile.label = Clique aqui para mais informações 
+Button_6C1AE403_7C03_7954_41C9_486B58E61A2F.label = Clique aqui para mais informações 
+Button_B55DD79A_E2FA_365F_41E2_865E33C5EAF0_mobile.label = Entre em Contato
+Button_B55DD79A_E2FA_365F_41E2_865E33C5EAF0.label = Entre em Contato
+Button_6E6C8B52_7E8F_47E5_41DB_39FE73CB4425.label = FACEBOOK
+Button_6E6C8B52_7E8F_47E5_41DB_39FE73CB4425_mobile.label = FACEBOOK
+Button_6E693B51_7E8F_47E7_41DA_003543290CC4.label = INSTAGRAM
+Button_6E693B51_7E8F_47E7_41DA_003543290CC4_mobile.label = INSTAGRAM
+Button_6E5AD583_7E95_4364_41DA_48FC4C99DA8C.label = NOS AVALIE
+Button_6E5AD583_7E95_4364_41DA_48FC4C99DA8C_mobile.label = NOS AVALIE
+Button_6E06BA11_7E9A_C164_41B9_4422DD368DFE.label = NOSSO WHATSAPP
+Button_6E06BA11_7E9A_C164_41B9_4422DD368DFE_mobile.label = NOSSO WHATSAPP
+Button_FB55027E_E331_B378_41EB_F49CBD998544_mobile.label = Nos Avalie
+Button_FB55027E_E331_B378_41EB_F49CBD998544.label = Nos Avalie
+Button_0B4A2C57_284E_FB15_41AD_AF1AE9DB80D1_mobile.label = Nosso Site
+Button_0B4A2C57_284E_FB15_41AD_AF1AE9DB80D1.label = Nosso Site
+Button_6E013E6B_7E8A_C1A4_417E_0E263C3BAA7E.label = TOUR VIRTUAL 360º
+Button_6E013E6B_7E8A_C1A4_417E_0E263C3BAA7E_mobile.label = TOUR VIRTUAL 360º
+
+### Image
+Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C_mobile.url = skin/Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C_mobile_pt.png
+Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C.url = skin/Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C_pt.png
+Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_mobile.url = skin/Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_mobile_pt.png
+Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48.url = skin/Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_pt.png
+Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD_mobile.url = skin/Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD_mobile_pt.png
+Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD.url = skin/Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD_pt.png
+
+## Tour
+
+### Description
+tour.description = Sejam Bem-vindos ao Tour Virtual 360º
+
+### Title
+tour.name = Laboratório Torres - Analises Clinicas
